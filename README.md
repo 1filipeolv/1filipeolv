@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Software Development Student at Fatec, Brazil  
+- 🎓 Software Development Student at Fatec-Registro-SP, Brazil  
 - 💻 Passionate Backend Developer focused on **Node.js, APIs, and system architecture**  
 - 🌱 Continuously learning and applying new technologies like **Python and React**  
 - 🚀 Working on academic projects and personal initiatives to improve software design and development skills  
