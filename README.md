@@ -12,6 +12,16 @@
 
 ---
 
+### 👨‍💻 About Me
+- 🎓 Software Development Student at Fatec, Brazil  
+- 💻 Passionate Backend Developer focused on **Node.js, APIs, and system architecture**  
+- 🌱 Continuously learning and applying new technologies like **Python and React**  
+- 🚀 Working on academic projects and personal initiatives to improve software design and development skills  
+- 🤝 Open to collaboration, teamwork, and sharing knowledge with others in the tech community  
+- 🎯 Goal-oriented, organized, and motivated to contribute effectively to professional projects
+
+---
+
 ### 📫 How to reach me:
 - **Email:** filipeolv.lima@gmail.com  
 - **LinkedIn:** [linkedin.com/in/filipeolv](https://linkedin.com/in/filipeolv)
