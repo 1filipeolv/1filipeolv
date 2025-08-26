@@ -22,6 +22,12 @@
 
 ---
 
+### 📫 How to reach me:
+- **Email:** filipeolv.lima@gmail.com  
+- **LinkedIn:** [linkedin.com/in/filipeolv](https://linkedin.com/in/filipeolv)
+
+---
+
 ### 🚀 Featured Project
 <p align="center">
   <b>AuthAPI Fullstack</b> - Complete authentication system with Node.js, Express, React, MongoDB, and JWT.  
